@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 6d3a2a22ab3a0cd4990626968ac1dfd9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: siloette of king _1
+    21300002: siloette of king _2
+    21300004: siloette of king _3
+    21300006: siloette of king _4
+    21300008: siloette of king _5
+    21300010: siloette of king _6
+    21300012: siloette of king _7
+    21300014: siloette of king _8
+    21300016: siloette of king _9
+    21300018: siloette of king _10
+    21300020: siloette of king _11
+    21300022: siloette of king _12
+    21300024: siloette of king _13
+    21300026: siloette of king _14
+    21300028: siloette of king _15
+    21300030: siloette of king _16
+    21300032: siloette of king _17
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: siloette of king _1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1760
+        width: 138
+        height: 287
+      alignment: 9
+      pivot: {x: 0.53707176, y: 0.19696704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1cacdf0fd135e4fa4c01cde3507af5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siloette of king _2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1777
+        width: 150
+        height: 263
+      alignment: 9
+      pivot: {x: 0.5852653, y: 0.23739612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f472817dbb00c2c4aa22b5070bced8c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siloette of king _3
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1542
+        width: 363
+        height: 296
+      alignment: 9
+      pivot: {x: 0.47886, y: 0.12840518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669f7d62fd29ad84e81c51bd1ca331ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siloette of king _4
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 1530
+        width: 325
+        height: 284
+      alignment: 9
+      pivot: {x: 0.46064678, y: 0.10369701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50781e4b647fbd54fa569ef0b6714b12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siloette of king _5
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 1565
+        width: 255
+        height: 280
+      alignment: 9
+      pivot: {x: 0.5802495, y: 0.061493356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f2780bad5ba8349a4f0301d9be1be7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siloette of king _6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1167
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a21f9a9dafe89479f9beb2304612b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siloette of king _7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1177
+        width: 101
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5728bd777e70ec4b83a28db55d232ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siloette of king _8
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1085
+        width: 273
+        height: 303
+      alignment: 9
+      pivot: {x: 0.44378147, y: 0.7363785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe8ec890ffc421418b355aabc6190a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siloette of king _9
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 837
+        width: 198
+        height: 124
+      alignment: 9
+      pivot: {x: 0.8100549, y: 0.5412573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2791b61d2c334847b9cd7a136ab226c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siloette of king _10
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 858
+        width: 218
+        height: 110
+      alignment: 9
+      pivot: {x: 0.14798729, y: 0.4999989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68d22741dbfa9a49867627911c8e6de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siloette of king _11
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 808
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fe3f15a8fe39b40a4aed3d4322f80c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siloette of king _12
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 738
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc26b9f3f619e7a4d9e563d3a7c388e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siloette of king _13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 404
+        width: 166
+        height: 204
+      alignment: 9
+      pivot: {x: 0.68491226, y: 0.7507797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443fd30b468c1b54fb901c3c2192a752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siloette of king _14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 537
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c823d0748149c41a008afb5254f03f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siloette of king _15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 408
+        width: 191
+        height: 192
+      alignment: 9
+      pivot: {x: 0.21875894, y: 0.8463888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5bb19cf4f29574ca9066b98bd4e3e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siloette of king _16
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 507
+        width: 150
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5852653, y: 0.640161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4221ca14c7336254ba28f866a3e1a4ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siloette of king _17
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 539
+        width: 171
+        height: 116
+      alignment: 9
+      pivot: {x: 0.2157832, y: 0.6543579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1974240c8e1837341a935994d7959da6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f23dad3b0d5773d48891d62572ce0143
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
