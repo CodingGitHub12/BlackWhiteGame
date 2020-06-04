@@ -9,6 +9,7 @@ public class PlayerControl : MonoBehaviour
     public GameObject white;
     public GameObject black;
 
+
     public Animator anim;
     private float velocity;
     public bool White;
